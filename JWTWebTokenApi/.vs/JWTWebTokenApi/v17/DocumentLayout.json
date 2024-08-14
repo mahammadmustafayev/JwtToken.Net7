@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\jwtwebtokenapi\\jwtwebtokenapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|solutionrelative:jwtwebtokenapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\jwtwebtokenapi\\jwtwebtokenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|solutionrelative:jwtwebtokenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\jwtwebtokenapi\\jwtwebtokenapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|solutionrelative:jwtwebtokenapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\jwtwebtokenapi\\jwtwebtokenapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|solutionrelative:jwtwebtokenapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\jwtwebtokenapi\\jwtwebtokenapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C059EA48-0334-4A3E-A2CF-70876A3991FA}|JWTWebTokenApi\\JWTWebTokenApi.csproj|solutionrelative:jwtwebtokenapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Program.cs",
+              "RelativeDocumentMoniker": "JWTWebTokenApi\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Program.cs",
+              "RelativeToolTip": "JWTWebTokenApi\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:34:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "JWTWebTokenApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "JWTWebTokenApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:30:05.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTWebTokenApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTWebTokenApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwDwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:45:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "JWTWebTokenApi\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Models\\UserDto.cs",
+              "RelativeToolTip": "JWTWebTokenApi\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:42:43.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWTWebTokenApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\JWTWebTokenApi\\JWTWebTokenApi\\Models\\User.cs",
+              "RelativeToolTip": "JWTWebTokenApi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:41:02.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2/YD6OSFut4+beOGjU7YbNF/bIXyGSCdBLZUw44D3vQ=",
+  "Source": "JWTWebTokenApi",
+  "BasePath": "_content/JWTWebTokenApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
